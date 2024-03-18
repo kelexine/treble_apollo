@@ -177,9 +177,6 @@ PRODUCT_COPY_FILES += \
 	device/phh/treble/files/ota.sh:system/bin/ota.sh \
 
 PRODUCT_COPY_FILES += \
-	device/phh/treble/remove-telephony.sh:system/bin/remove-telephony.sh \
-
-PRODUCT_COPY_FILES += \
 	frameworks/native/data/etc/android.software.secure_lock_screen.xml:system/etc/permissions/android.software.secure_lock_screen.xml \
 	device/phh/treble/files/android.software.controls.xml:system/etc/permissions/android.software.controls.xml \
 
