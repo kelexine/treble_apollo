@@ -7,4 +7,4 @@ $(call inherit-product, vendor/apollo/config/BoardConfigSoong.mk)
 TARGET_NO_KERNEL_OVERRIDE := true
 TARGET_NO_KERNEL_IMAGE := true
 SELINUX_IGNORE_NEVERALLOWS := true
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 720
